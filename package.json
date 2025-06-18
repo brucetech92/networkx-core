@@ -1,8 +1,8 @@
 {
-  "name": "@dagrejs/graphlib",
-  "version": "2.2.5-pre",
+  "name": "networkx-core",
+  "version": "2.1.6",
   "description": "A directed and undirected multi-graph library",
-  "author": "Chris Pettitt <cpettitt@gmail.com>",
+  "author": "Bruce <brucewatson0512@gmail.com>",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dagrejs/graphlib.git"
+    "url": "https://github.com/brucetech92/networkx-core"
   }
 }

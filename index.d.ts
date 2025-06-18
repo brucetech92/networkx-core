@@ -3,7 +3,7 @@
 // Definitions by: Dan Vanderkam <http://danvk.org/>, Dan Mironenko <wolfson@bracketedrebels.com>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
-declare module "@dagrejs/graphlib" {
+declare module "brucetech92/networkx-core" {
   export interface GraphOptions {
     directed?: boolean; // default: true.
     multigraph?: boolean; // default: false.
